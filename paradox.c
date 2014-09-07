@@ -109,7 +109,7 @@ int main(int argc, char **argv)
 
 
 
-
+	//Closing the file handles
 	fclose(fdIn);
 	fclose(fdOut);
 
